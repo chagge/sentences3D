@@ -1,0 +1,6 @@
+syntax: glob
+
+*.m~
+*.txt~
+*.h~
+*.cpp~
